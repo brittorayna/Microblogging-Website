@@ -1,0 +1,4 @@
+all .csv files go in this folder
+
+database_setup.sql contains the sql code to create the database.
+cs4370_mb_platform_export.sql is a sqldump of the database loaded with test data
